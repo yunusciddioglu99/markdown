@@ -1,7 +1,7 @@
 # markdown
 
 
-_Butter chicken curry_
+# _Butter chicken curry_
 
 ![Butter Chicken](butter-chicken-curry.png)
 
@@ -34,3 +34,7 @@ Rijst, komkommer, koriander en naanbrood om erbij te serveren
 3. Schenk de slagroom er bij. Breng de butter chicken curry op smaak met kardemom, kaneel, paprikapoeder, zout en peper. Laat 10 minuutjes pruttelen.
 4. Bereid ondertussen de rijst en grill het naanbrood. Snijd de komkommer fijn en doe in een kommetje.
 5. Serveer de rijst met de butter chicken curry, koriander, het naanbrood en de frisse komkommer.
+
+
+
+link: https://www.leukerecepten.nl/recepten/butter-chicken-curry/
